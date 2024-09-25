@@ -4,20 +4,20 @@ Titre Professionnel
 Développeur Web et Web Mobile
 Boulogne sur Mer, Hauts-de-France
 
-<!-- ## Qui sommes nous
+## Qui sommes nous
 
 <figure>
     <div align="center">
-        <a href="#">
-            <img src="#" alt="png" style="width: 300px !important;">
+        <a href="https://2024-dwwm-bsm-p4.github.io/trombi-gdu/">
+            <img src="./img/trombi.png" alt="trombi.png" style="width: 300px !important;">
         </a>
     </div>
     <div align="center">
         <figcaption>
-            <a href="#" align="center">Trombinoscope</a>
+            <a href="https://2024-dwwm-bsm-p4.github.io/trombi-gdu/" align="center">Trombinoscope (Grégoire & Yohann)</a>
         </figcaption>
     </div>
-</figure> -->
+</figure>
 
 ## Les technologies utilisées
 
