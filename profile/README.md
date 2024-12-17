@@ -69,6 +69,7 @@ Boulogne sur Mer, Hauts-de-France
 &emsp;&emsp;&emsp;[2️⃣ La vision de mon projet](https://github.com/2024-dwwm-bsm-p4/my-vision) : maquettage de l'application.  
 &emsp;&emsp;&emsp;&emsp;[3️⃣ Pilotage du projet](https://github.com/2024-dwwm-bsm-p4/project-management) : mise en place du backlog.  
 &emsp;&emsp;&emsp;&emsp;&emsp;[4️⃣ Conception](https://github.com/2024-dwwm-bsm-p4/conception) : traduction des diagrammes.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[5️⃣ En un clic](https://github.com/2024-dwwm-bsm-p4/one-click) : initialisation de l'environnement de développement.  
 
 <!-- ## Notre avancée
 
