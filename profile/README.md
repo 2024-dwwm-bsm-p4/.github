@@ -72,6 +72,7 @@ Boulogne sur Mer, Hauts-de-France
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[5️⃣ En un clic](https://github.com/2024-dwwm-bsm-p4/one-click) : initialisation de l'environnement de développement.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[6️⃣ Fonctionnalité principale](https://github.com/2024-dwwm-bsm-p4/project-6) : développement de la fonctionnalité principale.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[7️⃣ Optimisation SEO du projet](https://github.com/2024-dwwm-bsm-p4/project-7) : optimisation SEO.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8️⃣ Déploiement](https://github.com/2024-dwwm-bsm-p4/project-8) : mise en ligne sur un vps.  
 
 <!-- ## Notre avancée
 
