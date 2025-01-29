@@ -73,6 +73,7 @@ Boulogne sur Mer, Hauts-de-France
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[6️⃣ Fonctionnalité principale](https://github.com/2024-dwwm-bsm-p4/project-6) : développement de la fonctionnalité principale.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[7️⃣ Optimisation SEO du projet](https://github.com/2024-dwwm-bsm-p4/project-7) : optimisation SEO.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8️⃣ Déploiement](https://github.com/2024-dwwm-bsm-p4/project-8) : mise en ligne sur un vps.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[:nine: RGPD](https://github.com/2024-dwwm-bsm-p4/project-9) : conformité du projet au RGPD.  
 
 <!-- ## Notre avancée
 
